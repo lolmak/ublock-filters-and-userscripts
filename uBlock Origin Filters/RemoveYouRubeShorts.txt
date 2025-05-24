@@ -1,0 +1,4 @@
+! Убирает Shorts из рекомендаций и поиска на Youtube, но не убирает кнопку в боковом меню справа.
+www.youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope > .ytd-video-renderer.style-scope:has-text(SHORTS)
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com##ytd-guide-entry-renderer:has-text(Shorts)

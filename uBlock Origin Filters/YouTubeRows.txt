@@ -1,0 +1,4 @@
+! Только вы вправе решать сколько видео в рекомендациях на YouTube будет отображаться в одном ряду
+! Вы можете изменить это значение на любое другое (по умолчанию — 4)
+youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 4 !important;)
+youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-posts-per-row: 4 !important;)

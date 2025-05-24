@@ -1,0 +1,3 @@
+! Отключает рекламу в Яндекс Почте
+mail.yandex.ru###js-mail-layout-content-header > div:nth-of-type(2)
+mail.yandex.ru###js-mail-layout > div:has-text(Отключить рекламу) > div:has-text(Отключить рекламу)

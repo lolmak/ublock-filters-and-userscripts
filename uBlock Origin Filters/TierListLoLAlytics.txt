@@ -1,0 +1,8 @@
+! Улучшает внешний вид сайта LoLAlytics, делая его более компактным
+lolalytics.com##.sm\:px-0.text-white.leading-normal.text-\[14px\].text-justify.px-2.lolx-links
+lolalytics.com##.lg\:block.hidden.mt-2.mb-2
+lolalytics.com##.lg\:block.hidden.mt-4.mb-4 > .bg-\[\#111\].w-full.h-\[100px\].flex
+lolalytics.com##.font-bold.text-\[32px\]
+lolalytics.com##.sm\:text-base.text-gray-400.leading-6.font-medium.text-sm.text-justify
+lolalytics.com##.xl\:block.pt-4.hidden > .bg-\[\#111\].w-full.h-\[100px\].flex
+lolalytics.com##.w-\[300px\].h-\[250px\].bg-\[\#111\]

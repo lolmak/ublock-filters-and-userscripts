@@ -1,0 +1,5 @@
+! Убирает кнопки "Shorts", "Спорт" и "Детям" из правого бокового меню
+www.youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
+www.youtube.com##ytd-guide-entry-renderer:has-text(Спорт)
+www.youtube.com##ytd-guide-entry-renderer:has-text(Детям)
+www.youtube.com##ytd-rich-section-renderer:has-text(Shorts)
