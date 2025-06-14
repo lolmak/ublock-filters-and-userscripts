@@ -1,0 +1,5 @@
+! Удаляет рекламу на сайте Yandex погоды
+yandex.ru##[class*="AppLayoutTypeMain_right__"]
+yandex.ru##[class*="MainPage_topBlockWithMoney__"]
+yandex.ru##[class*="AppForecastMoney_wrap__"]
+yandex.ru##[class*="AppMoney_wrap__"]
