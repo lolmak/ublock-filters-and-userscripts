@@ -1,0 +1,4 @@
+! Убирает рекламные блоки на Tacter
+www.tacter.com##.GuideRenderer_guide-renderer__QgQQj .undefined.AdContainer_ad-container__NCWaN
+www.tacter.com##.AdsColumn_ads-column__wXM55
+www.tacter.com##.gap-4.lg\:grid-cols-3.md\:grid-cols-3.sm\:grid-cols-2.grid-cols-1.grid.w-full > div.gap-1.flex-col.flex.max-w-\[300px\]
